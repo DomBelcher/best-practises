@@ -24,6 +24,9 @@
     "vendor-prefix-align": false,
     "sort-order": [
         [
+          "$include"
+        ],
+        [
             "font",
             "font-family",
             "font-size",
